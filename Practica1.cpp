@@ -1,6 +1,3 @@
-// Alvaro Jover Alvarez
-// Jordi Amoros Moreno
-
 // FILTRO MEDIANO + GAUSSIANO
 
 #include <iostream>
